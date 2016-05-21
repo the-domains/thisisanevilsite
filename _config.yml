@@ -1,0 +1,14 @@
+layout_spectrum: 0.8761473116464913
+typography_spectrum: 0.01828564959578216
+color:
+  brandStrength: 0.8299861091654748
+  lightness: 0.3878053061198443
+  saturation: 0.30063066678121686
+  rhythmicContrast: 0.44146785512566566
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: thisisanevilsite
